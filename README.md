@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C++, Data Structure.**
 - 💬 Ask me about **Web3 Development**
-- ✉️ My E-mail Address: **
+- ✉️ My E-mail Address: *xenocryst@disroot.org*
 - ⚡ Fun fact **I am also a Web 3.0 Enthusiast**
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
