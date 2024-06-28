@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm RUXE</h1>
 <h3 align="center">A self taught competitive programmer</h3>
 
-- 🌱 I’m currently learning **C++, Data Structure.**
+- 🌱 I’m currently learning **C++, Data Structure & some advance algorithms.**
 - 💬 Ask me about **Web3 Development**
 - ✉️ My E-mail Address: *xenocryst@disroot.org*
 - ⚡ Fun fact **I am also a Web 3.0 Enthusiast**
